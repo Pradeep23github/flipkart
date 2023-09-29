@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[i created project]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-27T14:40:24 PDT" name="Suite" finished-at="2023-09-27T14:40:24 PDT" duration-ms="60">
+    <groups>
+    </groups>
+    <test started-at="2023-09-27T14:40:24 PDT" name="Test" finished-at="2023-09-27T14:40:24 PDT" duration-ms="60">
+      <class name="projectlist.projectdetail">
+        <test-method signature="projectsummary()[pri:0, instance:projectlist.projectdetail@55b699ef]" started-at="2023-09-27T14:40:24 PDT" name="projectsummary" finished-at="2023-09-27T14:40:24 PDT" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i created project]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- projectsummary -->
+      </class> <!-- projectlist.projectdetail -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
